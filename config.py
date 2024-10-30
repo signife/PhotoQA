@@ -12,7 +12,7 @@ MODEL_NAME = 'resnet18'  # You can change to other models like 'resnet34', 'resn
 
 # Training settings
 NUM_EPOCHS = 5
-LEARNING_RATE = 0.001
+LEARNING_RATE = 0.01
 
 # Normalization parameters for pretrained models
 NORMALIZE_MEAN = [0.485, 0.456, 0.406]
