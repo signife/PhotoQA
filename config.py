@@ -1,7 +1,7 @@
 # Configuration settings
 
 # Paths
-IMAGE_DIR = "data/declined/compliances"  # Update this to the correct path
+IMAGE_DIR = "data/cropdata/"  # Update this to the correct path
 CSV_FILE_PATH = 'data/data-1729656846556.csv'
 
 # DataLoader settings
