@@ -2,8 +2,8 @@ import os
 from PIL import Image
 
 # 원본 이미지가 있는 경로와 새로 만들 크롭 이미지 저장 경로
-original_base_path = "data/declined/compliances"
-crop_base_path = "cropdata"
+original_base_path = "data/newimage"
+crop_base_path = "data/newimage_cropped"
 
 # 새로운 폴더 생성
 os.makedirs(crop_base_path, exist_ok=True)
